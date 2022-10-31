@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ignatsHomeWorks/static/css/main.6e145c6c.css",
+    "main.js": "/ignatsHomeWorks/static/js/main.d006340b.js",
+    "static/js/787.66cb4309.chunk.js": "/ignatsHomeWorks/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/ignatsHomeWorks/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/ignatsHomeWorks/index.html",
+    "main.6e145c6c.css.map": "/ignatsHomeWorks/static/css/main.6e145c6c.css.map",
+    "main.d006340b.js.map": "/ignatsHomeWorks/static/js/main.d006340b.js.map",
+    "787.66cb4309.chunk.js.map": "/ignatsHomeWorks/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e145c6c.css",
+    "static/js/main.d006340b.js"
+  ]
+}
