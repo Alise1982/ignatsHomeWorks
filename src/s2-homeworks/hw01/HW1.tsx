@@ -13,7 +13,7 @@ import avatar from './avatar.png'
 * 5 - сделать стили в соответствии с дизайном
 * */
 // нужно создать правильный тип вместо any
-// TEST2
+// TEST3
 export type MessageType = {
     id: number,
     user: {
